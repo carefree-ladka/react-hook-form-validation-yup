@@ -1,0 +1,28 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 30px;
+  width: 340px;
+  margin-bottom: 0.8rem;
+}
+
+button {
+  height: 30px;
+  width: 340px;
+  margin-bottom: 0.8rem;
+}
+
+p {
+  font-size: 0.9rem;
+}
+.error {
+  color: red;
+}
